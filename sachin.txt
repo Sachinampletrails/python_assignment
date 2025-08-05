@@ -1,0 +1,3 @@
+Hello, I am Sachin.
+New to Devops and Python.
+Writing first file in pyhthon
